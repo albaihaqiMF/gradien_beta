@@ -16,7 +16,7 @@
             @csrf
 
             <div>
-                <x-jet-label for="username" value="{{ __('Username or Email') }}" />
+                <x-jet-label for="username" value="{{ __('Username') }}" />
                 <x-jet-input id="username" class="block w-full mt-1" type="username" name="username" :value="old('username')" required autofocus />
             </div>
 

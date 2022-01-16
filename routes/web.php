@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Livewire\Dashboard;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -19,6 +20,4 @@ Route::get('/', function () {
 
 Route::view('/test', 'icewall');
 
-Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
-    return view('dashboard');
-})->name('dashboard');
+Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard',Dashboard::class)->name('dashboard');

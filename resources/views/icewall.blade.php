@@ -1,7 +1,7 @@
 
 <!DOCTYPE html>
 <!--
-Template Name: Icewall - HTML Admin Dashboard Template
+Template Name: Gradien.co - HTML Admin Dashboard Template
 Author: Left4code
 Website: http://www.left4code.com/
 Contact: muhammadrizki@left4code.com
@@ -13,12 +13,12 @@ License: You must have a valid license purchased only from themeforest(the above
     <!-- BEGIN: Head -->
     <head>
         <meta charset="utf-8">
-        <link href="/images/logo.svg" rel="shortcut icon">
+        <link href="/images/gradien/logo.png" rel="shortcut icon">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="Icewall admin is super flexible, powerful, clean & modern responsive tailwind admin template with unlimited possibilities.">
-        <meta name="keywords" content="admin template, Icewall Admin Template, dashboard template, flat admin template, responsive admin template, web app">
+        <meta name="description" content="Gradien.co admin is super flexible, powerful, clean & modern responsive tailwind admin template with unlimited possibilities.">
+        <meta name="keywords" content="admin template, Gradien.co Admin Template, dashboard template, flat admin template, responsive admin template, web app">
         <meta name="author" content="LEFT4CODE">
-        <title>Dashboard - Icewall - Tailwind HTML Admin Template</title>
+        <title>Dashboard - Gradien.co - Tailwind HTML Admin Template</title>
         <!-- BEGIN: CSS Assets-->
         <link rel="stylesheet" href="/css/app.css" />
         <!-- END: CSS Assets-->
@@ -29,7 +29,7 @@ License: You must have a valid license purchased only from themeforest(the above
         <div class="mobile-menu md:hidden">
             <div class="mobile-menu-bar">
                 <a href="" class="flex mr-auto">
-                    <img alt="Icewall Tailwind HTML Admin Template" class="w-6" src="/images/logo.svg">
+                    <img alt="Gradien.co Tailwind HTML Admin Template" class="w-6" src="/images/gradien/logo.png">
                 </a>
                 <a href="javascript:;" id="mobile-menu-toggler"> <i data-feather="bar-chart-2" class="w-8 h-8 text-white transform -rotate-90"></i> </a>
             </div>
@@ -570,7 +570,7 @@ License: You must have a valid license purchased only from themeforest(the above
             <div class="flex items-center h-full">
                 <!-- BEGIN: Logo -->
                 <a href="" class="hidden -intro-x md:flex">
-                    <img alt="Icewall Tailwind HTML Admin Template" class="w-6" src="/images/logo.svg">
+                    <img alt="Gradien.co Tailwind HTML Admin Template" class="w-6" src="/images/gradien/logo.png">
                     <span class="ml-3 text-lg text-white"> Ice<span class="font-medium">wall</span> </span>
                 </a>
                 <!-- END: Logo -->
@@ -605,28 +605,28 @@ License: You must have a valid license purchased only from themeforest(the above
                             <div class="mb-5">
                                 <a href="" class="flex items-center mt-2">
                                     <div class="w-8 h-8 image-fit">
-                                        <img alt="Icewall Tailwind HTML Admin Template" class="rounded-full" src="/images/profile-6.jpg">
+                                        <img alt="Gradien.co Tailwind HTML Admin Template" class="rounded-full" src="/images/profile-6.jpg">
                                     </div>
                                     <div class="ml-3">Denzel Washington</div>
                                     <div class="w-48 ml-auto text-xs text-right text-gray-600 truncate">denzelwashington@left4code.com</div>
                                 </a>
                                 <a href="" class="flex items-center mt-2">
                                     <div class="w-8 h-8 image-fit">
-                                        <img alt="Icewall Tailwind HTML Admin Template" class="rounded-full" src="/images/profile-5.jpg">
+                                        <img alt="Gradien.co Tailwind HTML Admin Template" class="rounded-full" src="/images/profile-5.jpg">
                                     </div>
                                     <div class="ml-3">Johnny Depp</div>
                                     <div class="w-48 ml-auto text-xs text-right text-gray-600 truncate">johnnydepp@left4code.com</div>
                                 </a>
                                 <a href="" class="flex items-center mt-2">
                                     <div class="w-8 h-8 image-fit">
-                                        <img alt="Icewall Tailwind HTML Admin Template" class="rounded-full" src="/images/profile-1.jpg">
+                                        <img alt="Gradien.co Tailwind HTML Admin Template" class="rounded-full" src="/images/profile-1.jpg">
                                     </div>
                                     <div class="ml-3">Brad Pitt</div>
                                     <div class="w-48 ml-auto text-xs text-right text-gray-600 truncate">bradpitt@left4code.com</div>
                                 </a>
                                 <a href="" class="flex items-center mt-2">
                                     <div class="w-8 h-8 image-fit">
-                                        <img alt="Icewall Tailwind HTML Admin Template" class="rounded-full" src="/images/profile-5.jpg">
+                                        <img alt="Gradien.co Tailwind HTML Admin Template" class="rounded-full" src="/images/profile-5.jpg">
                                     </div>
                                     <div class="ml-3">Johnny Depp</div>
                                     <div class="w-48 ml-auto text-xs text-right text-gray-600 truncate">johnnydepp@left4code.com</div>
@@ -635,28 +635,28 @@ License: You must have a valid license purchased only from themeforest(the above
                             <div class="search-result__content__title">Products</div>
                             <a href="" class="flex items-center mt-2">
                                 <div class="w-8 h-8 image-fit">
-                                    <img alt="Icewall Tailwind HTML Admin Template" class="rounded-full" src="/images/preview-9.jpg">
+                                    <img alt="Gradien.co Tailwind HTML Admin Template" class="rounded-full" src="/images/preview-9.jpg">
                                 </div>
                                 <div class="ml-3">Samsung Galaxy S20 Ultra</div>
                                 <div class="w-48 ml-auto text-xs text-right text-gray-600 truncate">Smartphone &amp; Tablet</div>
                             </a>
                             <a href="" class="flex items-center mt-2">
                                 <div class="w-8 h-8 image-fit">
-                                    <img alt="Icewall Tailwind HTML Admin Template" class="rounded-full" src="/images/preview-3.jpg">
+                                    <img alt="Gradien.co Tailwind HTML Admin Template" class="rounded-full" src="/images/preview-3.jpg">
                                 </div>
                                 <div class="ml-3">Nike Tanjun</div>
                                 <div class="w-48 ml-auto text-xs text-right text-gray-600 truncate">Sport &amp; Outdoor</div>
                             </a>
                             <a href="" class="flex items-center mt-2">
                                 <div class="w-8 h-8 image-fit">
-                                    <img alt="Icewall Tailwind HTML Admin Template" class="rounded-full" src="/images/preview-1.jpg">
+                                    <img alt="Gradien.co Tailwind HTML Admin Template" class="rounded-full" src="/images/preview-1.jpg">
                                 </div>
                                 <div class="ml-3">Sony A7 III</div>
                                 <div class="w-48 ml-auto text-xs text-right text-gray-600 truncate">Photography</div>
                             </a>
                             <a href="" class="flex items-center mt-2">
                                 <div class="w-8 h-8 image-fit">
-                                    <img alt="Icewall Tailwind HTML Admin Template" class="rounded-full" src="/images/preview-11.jpg">
+                                    <img alt="Gradien.co Tailwind HTML Admin Template" class="rounded-full" src="/images/preview-11.jpg">
                                 </div>
                                 <div class="ml-3">Samsung Galaxy S20 Ultra</div>
                                 <div class="w-48 ml-auto text-xs text-right text-gray-600 truncate">Smartphone &amp; Tablet</div>
@@ -673,7 +673,7 @@ License: You must have a valid license purchased only from themeforest(the above
                             <div class="notification-content__title">Notifications</div>
                             <div class="relative flex items-center cursor-pointer ">
                                 <div class="flex-none w-12 h-12 mr-1 image-fit">
-                                    <img alt="Icewall Tailwind HTML Admin Template" class="rounded-full" src="/images/profile-6.jpg">
+                                    <img alt="Gradien.co Tailwind HTML Admin Template" class="rounded-full" src="/images/profile-6.jpg">
                                     <div class="absolute bottom-0 right-0 w-3 h-3 border-2 border-white rounded-full bg-theme-10"></div>
                                 </div>
                                 <div class="ml-2 overflow-hidden">
@@ -686,7 +686,7 @@ License: You must have a valid license purchased only from themeforest(the above
                             </div>
                             <div class="relative flex items-center mt-5 cursor-pointer">
                                 <div class="flex-none w-12 h-12 mr-1 image-fit">
-                                    <img alt="Icewall Tailwind HTML Admin Template" class="rounded-full" src="/images/profile-5.jpg">
+                                    <img alt="Gradien.co Tailwind HTML Admin Template" class="rounded-full" src="/images/profile-5.jpg">
                                     <div class="absolute bottom-0 right-0 w-3 h-3 border-2 border-white rounded-full bg-theme-10"></div>
                                 </div>
                                 <div class="ml-2 overflow-hidden">
@@ -699,7 +699,7 @@ License: You must have a valid license purchased only from themeforest(the above
                             </div>
                             <div class="relative flex items-center mt-5 cursor-pointer">
                                 <div class="flex-none w-12 h-12 mr-1 image-fit">
-                                    <img alt="Icewall Tailwind HTML Admin Template" class="rounded-full" src="/images/profile-1.jpg">
+                                    <img alt="Gradien.co Tailwind HTML Admin Template" class="rounded-full" src="/images/profile-1.jpg">
                                     <div class="absolute bottom-0 right-0 w-3 h-3 border-2 border-white rounded-full bg-theme-10"></div>
                                 </div>
                                 <div class="ml-2 overflow-hidden">
@@ -712,7 +712,7 @@ License: You must have a valid license purchased only from themeforest(the above
                             </div>
                             <div class="relative flex items-center mt-5 cursor-pointer">
                                 <div class="flex-none w-12 h-12 mr-1 image-fit">
-                                    <img alt="Icewall Tailwind HTML Admin Template" class="rounded-full" src="/images/profile-5.jpg">
+                                    <img alt="Gradien.co Tailwind HTML Admin Template" class="rounded-full" src="/images/profile-5.jpg">
                                     <div class="absolute bottom-0 right-0 w-3 h-3 border-2 border-white rounded-full bg-theme-10"></div>
                                 </div>
                                 <div class="ml-2 overflow-hidden">
@@ -725,7 +725,7 @@ License: You must have a valid license purchased only from themeforest(the above
                             </div>
                             <div class="relative flex items-center mt-5 cursor-pointer">
                                 <div class="flex-none w-12 h-12 mr-1 image-fit">
-                                    <img alt="Icewall Tailwind HTML Admin Template" class="rounded-full" src="/images/profile-9.jpg">
+                                    <img alt="Gradien.co Tailwind HTML Admin Template" class="rounded-full" src="/images/profile-9.jpg">
                                     <div class="absolute bottom-0 right-0 w-3 h-3 border-2 border-white rounded-full bg-theme-10"></div>
                                 </div>
                                 <div class="ml-2 overflow-hidden">
@@ -743,7 +743,7 @@ License: You must have a valid license purchased only from themeforest(the above
                 <!-- BEGIN: Account Menu -->
                 <div class="w-8 h-8 intro-x dropdown">
                     <div class="w-8 h-8 overflow-hidden scale-110 rounded-full shadow-lg dropdown-toggle image-fit zoom-in" role="button" aria-expanded="false">
-                        <img alt="Icewall Tailwind HTML Admin Template" src="/images/profile-2.jpg">
+                        <img alt="Gradien.co Tailwind HTML Admin Template" src="/images/profile-2.jpg">
                     </div>
                     <div class="w-56 dropdown-menu">
                         <div class="text-white dropdown-menu__content box bg-theme-11 dark:bg-dark-6">
@@ -1465,7 +1465,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                 <div class="ml-auto">472</div>
                                             </div>
                                             <div class="flex mt-1.5">
-                                                <div>/icewall…review/1674</div>
+                                                <div>/Gradien.co…review/1674</div>
                                                 <div class="ml-auto">294</div>
                                             </div>
                                             <div class="flex mt-1.5">
@@ -1555,7 +1555,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                         <div class="intro-y">
                                             <div class="flex items-center px-4 py-4 mb-3 box zoom-in">
                                                 <div class="flex-none w-10 h-10 overflow-hidden rounded-md image-fit">
-                                                    <img alt="Icewall Tailwind HTML Admin Template" src="/images/profile-15.jpg">
+                                                    <img alt="Gradien.co Tailwind HTML Admin Template" src="/images/profile-15.jpg">
                                                 </div>
                                                 <div class="ml-4 mr-auto">
                                                     <div class="font-medium">Angelina Jolie</div>
@@ -1567,7 +1567,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                         <div class="intro-y">
                                             <div class="flex items-center px-4 py-4 mb-3 box zoom-in">
                                                 <div class="flex-none w-10 h-10 overflow-hidden rounded-md image-fit">
-                                                    <img alt="Icewall Tailwind HTML Admin Template" src="/images/profile-6.jpg">
+                                                    <img alt="Gradien.co Tailwind HTML Admin Template" src="/images/profile-6.jpg">
                                                 </div>
                                                 <div class="ml-4 mr-auto">
                                                     <div class="font-medium">Denzel Washington</div>
@@ -1579,7 +1579,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                         <div class="intro-y">
                                             <div class="flex items-center px-4 py-4 mb-3 box zoom-in">
                                                 <div class="flex-none w-10 h-10 overflow-hidden rounded-md image-fit">
-                                                    <img alt="Icewall Tailwind HTML Admin Template" src="/images/profile-5.jpg">
+                                                    <img alt="Gradien.co Tailwind HTML Admin Template" src="/images/profile-5.jpg">
                                                 </div>
                                                 <div class="ml-4 mr-auto">
                                                     <div class="font-medium">Brad Pitt</div>
@@ -1591,7 +1591,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                         <div class="intro-y">
                                             <div class="flex items-center px-4 py-4 mb-3 box zoom-in">
                                                 <div class="flex-none w-10 h-10 overflow-hidden rounded-md image-fit">
-                                                    <img alt="Icewall Tailwind HTML Admin Template" src="/images/profile-14.jpg">
+                                                    <img alt="Gradien.co Tailwind HTML Admin Template" src="/images/profile-14.jpg">
                                                 </div>
                                                 <div class="ml-4 mr-auto">
                                                     <div class="font-medium">Denzel Washington</div>
@@ -1610,7 +1610,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                         <div class="w-full -mt-3 text-xl text-white ads-box__title sm:w-72">Transact safely with Lender’s Fund Account (RDL)</div>
                                         <div class="w-full mt-3 leading-relaxed text-white sm:w-72 text-opacity-70 dark:text-gray-600 dark:text-opacity-100">Apply now, quick registration</div>
                                         <button class="w-32 mt-6 bg-white btn dark:bg-dark-2 dark:text-white sm:mt-10">Start Now</button>
-                                        <img class="absolute top-0 right-0 hidden w-2/5 mr-2 -mt-3 sm:block" alt="Icewall Tailwind HTML Admin Template" src="/images/woman-illustration.svg">
+                                        <img class="absolute top-0 right-0 hidden w-2/5 mr-2 -mt-3 sm:block" alt="Gradien.co Tailwind HTML Admin Template" src="/images/woman-illustration.svg">
                                     </div>
                                 </div>
                                 <!-- END: Ads 1 -->
@@ -1623,7 +1623,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                             <input class="form-control" value="https://dashboard.in">
                                             <i data-feather="copy" class="absolute top-0 bottom-0 right-0 w-4 h-4 my-auto mr-4"></i>
                                         </div>
-                                        <img class="absolute top-0 right-0 hidden w-1/2 mt-1 -mr-12 sm:block" alt="Icewall Tailwind HTML Admin Template" src="/images/phone-illustration.svg">
+                                        <img class="absolute top-0 right-0 hidden w-1/2 mt-1 -mr-12 sm:block" alt="Gradien.co Tailwind HTML Admin Template" src="/images/phone-illustration.svg">
                                     </div>
                                 </div>
                                 <!-- END: Ads 2 -->
@@ -1654,13 +1654,13 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     <td class="w-40">
                                                         <div class="flex">
                                                             <div class="w-10 h-10 image-fit zoom-in">
-                                                                <img alt="Icewall Tailwind HTML Admin Template" class="rounded-full tooltip" src="/images/preview-14.jpg" title="Uploaded at 12 December 2020">
+                                                                <img alt="Gradien.co Tailwind HTML Admin Template" class="rounded-full tooltip" src="/images/preview-14.jpg" title="Uploaded at 12 December 2020">
                                                             </div>
                                                             <div class="w-10 h-10 -ml-5 image-fit zoom-in">
-                                                                <img alt="Icewall Tailwind HTML Admin Template" class="rounded-full tooltip" src="/images/preview-13.jpg" title="Uploaded at 24 July 2021">
+                                                                <img alt="Gradien.co Tailwind HTML Admin Template" class="rounded-full tooltip" src="/images/preview-13.jpg" title="Uploaded at 24 July 2021">
                                                             </div>
                                                             <div class="w-10 h-10 -ml-5 image-fit zoom-in">
-                                                                <img alt="Icewall Tailwind HTML Admin Template" class="rounded-full tooltip" src="/images/preview-8.jpg" title="Uploaded at 17 September 2020">
+                                                                <img alt="Gradien.co Tailwind HTML Admin Template" class="rounded-full tooltip" src="/images/preview-8.jpg" title="Uploaded at 17 September 2020">
                                                             </div>
                                                         </div>
                                                     </td>
@@ -1683,13 +1683,13 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     <td class="w-40">
                                                         <div class="flex">
                                                             <div class="w-10 h-10 image-fit zoom-in">
-                                                                <img alt="Icewall Tailwind HTML Admin Template" class="rounded-full tooltip" src="/images/preview-11.jpg" title="Uploaded at 19 December 2021">
+                                                                <img alt="Gradien.co Tailwind HTML Admin Template" class="rounded-full tooltip" src="/images/preview-11.jpg" title="Uploaded at 19 December 2021">
                                                             </div>
                                                             <div class="w-10 h-10 -ml-5 image-fit zoom-in">
-                                                                <img alt="Icewall Tailwind HTML Admin Template" class="rounded-full tooltip" src="/images/preview-3.jpg" title="Uploaded at 16 January 2021">
+                                                                <img alt="Gradien.co Tailwind HTML Admin Template" class="rounded-full tooltip" src="/images/preview-3.jpg" title="Uploaded at 16 January 2021">
                                                             </div>
                                                             <div class="w-10 h-10 -ml-5 image-fit zoom-in">
-                                                                <img alt="Icewall Tailwind HTML Admin Template" class="rounded-full tooltip" src="/images/preview-1.jpg" title="Uploaded at 24 August 2021">
+                                                                <img alt="Gradien.co Tailwind HTML Admin Template" class="rounded-full tooltip" src="/images/preview-1.jpg" title="Uploaded at 24 August 2021">
                                                             </div>
                                                         </div>
                                                     </td>
@@ -1712,13 +1712,13 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     <td class="w-40">
                                                         <div class="flex">
                                                             <div class="w-10 h-10 image-fit zoom-in">
-                                                                <img alt="Icewall Tailwind HTML Admin Template" class="rounded-full tooltip" src="/images/preview-2.jpg" title="Uploaded at 8 June 2022">
+                                                                <img alt="Gradien.co Tailwind HTML Admin Template" class="rounded-full tooltip" src="/images/preview-2.jpg" title="Uploaded at 8 June 2022">
                                                             </div>
                                                             <div class="w-10 h-10 -ml-5 image-fit zoom-in">
-                                                                <img alt="Icewall Tailwind HTML Admin Template" class="rounded-full tooltip" src="/images/preview-8.jpg" title="Uploaded at 3 January 2022">
+                                                                <img alt="Gradien.co Tailwind HTML Admin Template" class="rounded-full tooltip" src="/images/preview-8.jpg" title="Uploaded at 3 January 2022">
                                                             </div>
                                                             <div class="w-10 h-10 -ml-5 image-fit zoom-in">
-                                                                <img alt="Icewall Tailwind HTML Admin Template" class="rounded-full tooltip" src="/images/preview-15.jpg" title="Uploaded at 31 July 2021">
+                                                                <img alt="Gradien.co Tailwind HTML Admin Template" class="rounded-full tooltip" src="/images/preview-15.jpg" title="Uploaded at 31 July 2021">
                                                             </div>
                                                         </div>
                                                     </td>
@@ -1741,13 +1741,13 @@ License: You must have a valid license purchased only from themeforest(the above
                                                     <td class="w-40">
                                                         <div class="flex">
                                                             <div class="w-10 h-10 image-fit zoom-in">
-                                                                <img alt="Icewall Tailwind HTML Admin Template" class="rounded-full tooltip" src="/images/preview-3.jpg" title="Uploaded at 5 August 2022">
+                                                                <img alt="Gradien.co Tailwind HTML Admin Template" class="rounded-full tooltip" src="/images/preview-3.jpg" title="Uploaded at 5 August 2022">
                                                             </div>
                                                             <div class="w-10 h-10 -ml-5 image-fit zoom-in">
-                                                                <img alt="Icewall Tailwind HTML Admin Template" class="rounded-full tooltip" src="/images/preview-4.jpg" title="Uploaded at 14 December 2020">
+                                                                <img alt="Gradien.co Tailwind HTML Admin Template" class="rounded-full tooltip" src="/images/preview-4.jpg" title="Uploaded at 14 December 2020">
                                                             </div>
                                                             <div class="w-10 h-10 -ml-5 image-fit zoom-in">
-                                                                <img alt="Icewall Tailwind HTML Admin Template" class="rounded-full tooltip" src="/images/preview-1.jpg" title="Uploaded at 1 November 2020">
+                                                                <img alt="Gradien.co Tailwind HTML Admin Template" class="rounded-full tooltip" src="/images/preview-1.jpg" title="Uploaded at 1 November 2020">
                                                             </div>
                                                         </div>
                                                     </td>
@@ -1859,7 +1859,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                             <div class="relative flex items-center mb-3 intro-x">
                                                 <div class="report-timeline__image">
                                                     <div class="flex-none w-10 h-10 overflow-hidden rounded-full image-fit">
-                                                        <img alt="Icewall Tailwind HTML Admin Template" src="/images/profile-10.jpg">
+                                                        <img alt="Gradien.co Tailwind HTML Admin Template" src="/images/profile-10.jpg">
                                                     </div>
                                                 </div>
                                                 <div class="flex-1 px-5 py-3 ml-4 box zoom-in">
@@ -1873,7 +1873,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                             <div class="relative flex items-center mb-3 intro-x">
                                                 <div class="report-timeline__image">
                                                     <div class="flex-none w-10 h-10 overflow-hidden rounded-full image-fit">
-                                                        <img alt="Icewall Tailwind HTML Admin Template" src="/images/profile-11.jpg">
+                                                        <img alt="Gradien.co Tailwind HTML Admin Template" src="/images/profile-11.jpg">
                                                     </div>
                                                 </div>
                                                 <div class="flex-1 px-5 py-3 ml-4 box zoom-in">
@@ -1885,13 +1885,13 @@ License: You must have a valid license purchased only from themeforest(the above
                                                         <div class="mt-1">Added 3 new photos</div>
                                                         <div class="flex mt-2">
                                                             <div class="w-8 h-8 mr-1 tooltip image-fit zoom-in" title="Oppo Find X2 Pro">
-                                                                <img alt="Icewall Tailwind HTML Admin Template" class="border border-white rounded-md" src="/images/preview-13.jpg">
+                                                                <img alt="Gradien.co Tailwind HTML Admin Template" class="border border-white rounded-md" src="/images/preview-13.jpg">
                                                             </div>
                                                             <div class="w-8 h-8 mr-1 tooltip image-fit zoom-in" title="Nike Air Max 270">
-                                                                <img alt="Icewall Tailwind HTML Admin Template" class="border border-white rounded-md" src="/images/preview-11.jpg">
+                                                                <img alt="Gradien.co Tailwind HTML Admin Template" class="border border-white rounded-md" src="/images/preview-11.jpg">
                                                             </div>
                                                             <div class="w-8 h-8 mr-1 tooltip image-fit zoom-in" title="Samsung Q90 QLED TV">
-                                                                <img alt="Icewall Tailwind HTML Admin Template" class="border border-white rounded-md" src="/images/preview-13.jpg">
+                                                                <img alt="Gradien.co Tailwind HTML Admin Template" class="border border-white rounded-md" src="/images/preview-13.jpg">
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1901,7 +1901,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                             <div class="relative flex items-center mb-3 intro-x">
                                                 <div class="report-timeline__image">
                                                     <div class="flex-none w-10 h-10 overflow-hidden rounded-full image-fit">
-                                                        <img alt="Icewall Tailwind HTML Admin Template" src="/images/profile-12.jpg">
+                                                        <img alt="Gradien.co Tailwind HTML Admin Template" src="/images/profile-12.jpg">
                                                     </div>
                                                 </div>
                                                 <div class="flex-1 px-5 py-3 ml-4 box zoom-in">
@@ -1915,7 +1915,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                             <div class="relative flex items-center mb-3 intro-x">
                                                 <div class="report-timeline__image">
                                                     <div class="flex-none w-10 h-10 overflow-hidden rounded-full image-fit">
-                                                        <img alt="Icewall Tailwind HTML Admin Template" src="/images/profile-2.jpg">
+                                                        <img alt="Gradien.co Tailwind HTML Admin Template" src="/images/profile-2.jpg">
                                                     </div>
                                                 </div>
                                                 <div class="flex-1 px-5 py-3 ml-4 box zoom-in">
@@ -1940,7 +1940,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                             <div class="intro-x">
                                                 <div class="flex items-center px-5 py-3 mb-3 box zoom-in">
                                                     <div class="flex-none w-10 h-10 overflow-hidden rounded-full image-fit">
-                                                        <img alt="Icewall Tailwind HTML Admin Template" src="/images/profile-15.jpg">
+                                                        <img alt="Gradien.co Tailwind HTML Admin Template" src="/images/profile-15.jpg">
                                                     </div>
                                                     <div class="ml-4 mr-auto">
                                                         <div class="font-medium">Angelina Jolie</div>
@@ -1952,7 +1952,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                             <div class="intro-x">
                                                 <div class="flex items-center px-5 py-3 mb-3 box zoom-in">
                                                     <div class="flex-none w-10 h-10 overflow-hidden rounded-full image-fit">
-                                                        <img alt="Icewall Tailwind HTML Admin Template" src="/images/profile-6.jpg">
+                                                        <img alt="Gradien.co Tailwind HTML Admin Template" src="/images/profile-6.jpg">
                                                     </div>
                                                     <div class="ml-4 mr-auto">
                                                         <div class="font-medium">Denzel Washington</div>
@@ -1964,7 +1964,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                             <div class="intro-x">
                                                 <div class="flex items-center px-5 py-3 mb-3 box zoom-in">
                                                     <div class="flex-none w-10 h-10 overflow-hidden rounded-full image-fit">
-                                                        <img alt="Icewall Tailwind HTML Admin Template" src="/images/profile-5.jpg">
+                                                        <img alt="Gradien.co Tailwind HTML Admin Template" src="/images/profile-5.jpg">
                                                     </div>
                                                     <div class="ml-4 mr-auto">
                                                         <div class="font-medium">Brad Pitt</div>
@@ -1976,7 +1976,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                             <div class="intro-x">
                                                 <div class="flex items-center px-5 py-3 mb-3 box zoom-in">
                                                     <div class="flex-none w-10 h-10 overflow-hidden rounded-full image-fit">
-                                                        <img alt="Icewall Tailwind HTML Admin Template" src="/images/profile-14.jpg">
+                                                        <img alt="Gradien.co Tailwind HTML Admin Template" src="/images/profile-14.jpg">
                                                     </div>
                                                     <div class="ml-4 mr-auto">
                                                         <div class="font-medium">Denzel Washington</div>
@@ -1988,7 +1988,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                             <div class="intro-x">
                                                 <div class="flex items-center px-5 py-3 mb-3 box zoom-in">
                                                     <div class="flex-none w-10 h-10 overflow-hidden rounded-full image-fit">
-                                                        <img alt="Icewall Tailwind HTML Admin Template" src="/images/profile-13.jpg">
+                                                        <img alt="Gradien.co Tailwind HTML Admin Template" src="/images/profile-13.jpg">
                                                     </div>
                                                     <div class="ml-4 mr-auto">
                                                         <div class="font-medium">Russell Crowe</div>
